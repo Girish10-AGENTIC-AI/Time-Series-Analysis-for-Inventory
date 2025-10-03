@@ -1,4 +1,4 @@
-# Inventory Management Using Time Series Analysis and Forecasting 📊🕒
+# Inventory Management Using Time Series Analysis
 
 Managing the inventory of spare parts in various service centers to meet market demand poses a significant challenge. Despite substantial investments in spare parts inventory, ensuring the availability of these parts remains a problematic area. In this project, I've tackled this issue by employing time series analysis techniques 🧮🔍.
 
@@ -41,3 +41,4 @@ The models were evaluated using:
 - **Mean Squared Error (MSE)**
 
 This project demonstrates the power of time series analysis and forecasting in solving real-world inventory management challenges. By predicting demand more accurately, service centers can optimize their inventory levels, reduce costs, and ensure the availability of spare parts, ultimately leading to greater customer satisfaction.
+
